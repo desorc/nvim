@@ -1,0 +1,5 @@
+
+noinst_HEADERS += \
+src/nlohmann/detail/output/binary_writer.hpp \
+src/nlohmann/detail/output/output_adapters.hpp \
+src/nlohmann/detail/output/serializer.hpp

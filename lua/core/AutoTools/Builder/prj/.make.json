@@ -1,0 +1,11 @@
+{
+"autoconf": "autoreconf",
+"configure_path": "build",
+"configure": "../configure",
+
+"make_path": "build",
+"make": "make",
+
+"exe_path": "build",
+"exe": "./builder make"
+}

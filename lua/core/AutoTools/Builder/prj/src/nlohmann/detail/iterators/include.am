@@ -1,0 +1,8 @@
+
+noinst_HEADERS += \
+src/nlohmann/detail/iterators/internal_iterator.hpp \
+src/nlohmann/detail/iterators/iter_impl.hpp \
+src/nlohmann/detail/iterators/iteration_proxy.hpp \
+src/nlohmann/detail/iterators/iterator_traits.hpp \
+src/nlohmann/detail/iterators/json_reverse_iterator.hpp \
+src/nlohmann/detail/iterators/primitive_iterator.hpp

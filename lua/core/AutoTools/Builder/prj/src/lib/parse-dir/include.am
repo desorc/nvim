@@ -1,0 +1,7 @@
+noinst_LIBRARIES += src/lib/libparse-dir.a
+
+src_lib_libparse_dir_a_SOURCES = \
+src/lib/parse-dir/parse_dir.cpp
+
+noinst_HEADERS += \
+src/lib/parse-dir/parse_dir.h

@@ -1,0 +1,115 @@
+=== YouCompleteMe ===
+	is a fast, as-you-type, fuzzy-search code completion, comprehension and refactoring engine
+
+=== asyncrun ===
+	run shell commands in the background and read the output in a quick-fix window in real time
+
+=== cmp-plugins ===
+	plugin for lsp server
+* obsidis.nvim:
+  A Neovim plugin for writing and navigating Obsidian vaults
+* orgmode:
+  Use your favourite package manager
+* copilot.lua
+  This plugin is the pure lua replacement for github/copilot.vim. Copilot uses OpenAI Codex to suggest code and entire functions in real-time right from your editor. Trained on billions of lines of public code, GitHub Copilot turns natural language prompts including comments and method names into coding suggestions across dozens of languages
+* copilot-cmp
+  This repository transforms https://github.com/zbirenbaum/copilot.lua into a cmp source.
+  Copilot suggestions will automatically be loaded into your cmp menu as snippets and display their full contents when a copilot suggestion is hovered
+* vim-dadbod-completion:
+  Database auto completion powered by vim-dadbod
+* nvim-lspconfig:
+	Configs for the Nvim LSP client
+* crates.nvim
+  A neovim plugin that helps managing crates.io dependencies
+* cmp-nvim-lsp:
+	nvim-cmp source for neovim's built-in language server client
+* cmp_luasnip:
+  luasnip completion source for nvim-cmp
+* cmp-nvim-lsp-signature-help:
+  nvim-cmp source for displaying function signatures with the current parameter emphasized
+* cmp-buffer:
+	nvim-cmp source for buffer words
+* cmp-path:
+	nvim-cmp source for filesystem paths
+* cmp-cmdline:
+	nvim-cmp source for vim's cmdline
+* cmp-vsnip:
+	nvim-cmp source for vim-vsnip
+* vim-vsnip:
+	VSCode(LSP)'s snippet feature in vim/nvim
+
+=== cmp ===
+	A completion engine plugin for neovim written in Lua. Completion sources are installed from external repositories and "sourced"
+
+=== delimitMate ===
+	automatic closing of quotes, parenthesis, brackets, etc., besides some other related features that should make your time in insert mode a little bit easier, like syntax awareness (will not insert the closing delimiter in comments and other configurable regions), and expansions (off by default), and some more
+
+=== gruvbox-material ===
+	modified version of Gruvbox, the contrast is adjusted to be softer in order to protect developers' eyes
+
+=== hop ===
+	is an EasyMotion-like plugin allowing you to jump anywhere in a document with as few keystrokes as possible
+
+=== julia-vim ===
+	Julia support for Vim
+
+=== lualine ===
+	A blazing fast and easy to configure Neovim statusline
+
+=== markdown-preview ===
+	Preview Markdown in your modern browser with synchronised scrolling and flexible configuration
+
+=== meason ===
+	is a project to create the best possible next-generation build system
+
+=== nvim-bqf ===
+	is to make Neovim's quickfix window better
+
+=== nvim-hlslens ===
+	helps you better glance at matched information, seamlessly jump between matched instances
+
+=== nvim-notify ===
+	A fancy, configurable, notification manager for NeoVim
+
+=== nvim-tree ===
+	A File Explorer For Neovim
+
+=== nvim-treesitter ===
+	The goal of nvim-treesitter is both to provide a simple and easy way to use the interface for tree-sitter in Neovim and to provide some basic functionality such as highlighting based on it
+
+=== nvim-web-devicons ===
+	A lua fork of vim-devicons. This plugin provides the same icons as well as colors for each icon.
+	Light and dark color variants are provided
+
+=== tidy ===
+	tidy.nvim removes trailing white space and empty lines at EOF on save
+
+=== tokyonight ===
+	A dark and light Neovim theme written in Lua ported from the Visual Studio Code TokyoNight theme. Includes extra themes for Kitty, Alacritty, iTerm and Fish
+
+=== ultisnips ===
+	UltiSnips is the ultimate solution for snippets in Vim. It has many features
+
+=== vim-autoformat ===
+	Format code with one button press (or automatically on save)
+
+=== vim-commentary ===
+	Comment stuff out
+
+=== vim-easymotion ===
+	Vim motion on speed
+
+=== vim-markdown ===
+	Syntax highlighting, matching rules and mappings for the original Markdown and extensions
+
+=== vim-mundo ===
+	A Vim plugin to visualizes the Vim undo tree
+
+=== vim-sandwich ===
+	is a plugin that makes it super easy to work with stuff that comes in pairs, like brackets, quotes, and even HTML or XML tags. You can quickly get rid of them, swap them out, or slap new ones around your text
+
+=== vim-snippets ===
+	This repository contains snippets files for various programming languages
+
+=== wilder ===
+	Automatically provides suggestions as you type

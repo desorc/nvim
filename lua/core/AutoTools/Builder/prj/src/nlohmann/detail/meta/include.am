@@ -1,0 +1,11 @@
+
+noinst_HEADERS += \
+src/nlohmann/detail/meta/cpp_future.hpp \
+src/nlohmann/detail/meta/detected.hpp \
+src/nlohmann/detail/meta/identity_tag.hpp \
+src/nlohmann/detail/meta/is_sax.hpp \
+src/nlohmann/detail/meta/std_fs.hpp \
+src/nlohmann/detail/meta/type_traits.hpp \
+src/nlohmann/detail/meta/void_t.hpp
+
+include nlohmann/detail/meta/call_std/include.am

@@ -1,0 +1,4 @@
+
+noinst_HEADERS += \
+src/nlohmann/thirdparty/hedley/hedley.hpp \
+src/nlohmann/thirdparty/hedley/hedley_undef.hpp

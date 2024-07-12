@@ -1,0 +1,8 @@
+
+noinst_HEADERS += \
+src/nlohmann/detail/input/binary_reader.hpp \
+src/nlohmann/detail/input/input_adapters.hpp \
+src/nlohmann/detail/input/json_sax.hpp \
+src/nlohmann/detail/input/lexer.hpp \
+src/nlohmann/detail/input/parser.hpp \
+src/nlohmann/detail/input/position_t.hpp

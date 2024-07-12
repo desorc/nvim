@@ -1,0 +1,4 @@
+
+noinst_HEADERS += \
+src/nlohmann/detail/meta/call_std/begin.hpp \
+src/nlohmann/detail/meta/call_std/end.hpp

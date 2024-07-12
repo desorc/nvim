@@ -1,0 +1,10 @@
+
+noinst_HEADERS += \
+src/nlohmann/adl_serializer.hpp \
+src/nlohmann/byte_container_with_subtype.hpp \
+src/nlohmann/json.hpp \
+src/nlohmann/json_fwd.hpp \
+src/nlohmann/ordered_map.hpp
+
+include src/nlohmann/detail/include.am
+include src/nlohmann/thirdparty/include.am

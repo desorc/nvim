@@ -1,0 +1,19 @@
+
+noinst_HEADERS += \
+src/nlohmann/detail/abi_macros.hpp \
+src/nlohmann/detail/exceptions.hpp \
+src/nlohmann/detail/hash.hpp \
+src/nlohmann/detail/json_custom_base_class.hpp \
+src/nlohmann/detail/json_pointer.hpp \
+src/nlohmann/detail/json_ref.hpp \
+src/nlohmann/detail/macro_scope.hpp \
+src/nlohmann/detail/macro_unscope.hpp \
+src/nlohmann/detail/string_concat.hpp \
+src/nlohmann/detail/string_escape.hpp \
+src/nlohmann/detail/value_t.hpp
+
+include src/nlohmann/detail/conversions
+include src/nlohmann/detail/input
+include src/nlohmann/detail/iterators
+include src/nlohmann/detail/meta
+include src/nlohmann/detail/output

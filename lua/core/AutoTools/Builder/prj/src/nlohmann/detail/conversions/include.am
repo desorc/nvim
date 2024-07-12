@@ -1,0 +1,5 @@
+
+noinst_HEADERS += \
+src/nlohmann/detail/conversions/from_json.hpp \
+src/nlohmann/detail/conversions/to_chars.hpp \
+src/nlohmann/detail/conversions/to_json.hpp
